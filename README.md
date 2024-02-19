@@ -25,6 +25,12 @@
 5. **View Fetched Data:**
     - Open your terminal and observe the fetched data displayed in the form of a table.
 
+## Screenshots
+**JSON format**
+![Fetched Data](screenshots/jsonFormat.png)
+
+**Table format**
+![Fetched Data](screenshots/tableFormat.png)
 ## Note
 Ensure that you have [Node.js](https://nodejs.org/) and [Git](https://git-scm.com/) installed on your system before proceeding with the installation.
 
